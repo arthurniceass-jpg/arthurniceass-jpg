@@ -7,7 +7,7 @@ Sou apaixonado por transformar ideias em produtos que funcionam de verdade. Cons
 
 ### 🛠️ No que estou trabalhando agora
 * **[Nutri Lab Brasil](https://nutrilab-seven.vercel.app):** e-commerce de suplementos com painel do dono (faturamento, lucro, estoque, pedidos, fornecedores e relatórios), catálogo com filtros e pagamento via Mercado Pago (Pix, cartão e boleto). *Next.js 15, TypeScript, Tailwind, Prisma e PostgreSQL.*
-* **[Meu portfólio](https://portfolio-kappa-pink-pzhzl7pyjt.vercel.app):** site no estilo terminal, com objeto 3D feito à mão em Canvas, sem bibliotecas.
+* **[Meu portfólio](https://arthurniceass.vercel.app):** site no estilo terminal, com objeto 3D feito à mão em Canvas, sem bibliotecas.
 
 ### 🚀 Minha Stack
 
@@ -47,4 +47,4 @@ Sou apaixonado por transformar ideias em produtos que funcionam de verdade. Cons
 ### 📫 Vamos nos conectar?
 * 📍 Localizado em: **Recife - PE**
 * 💼 [Meu LinkedIn](https://www.linkedin.com/in/arthur-niceas-aj/)
-* 🌐 [Meu portfólio](https://portfolio-kappa-pink-pzhzl7pyjt.vercel.app)
+* 🌐 [Meu portfólio](https://arthurniceass.vercel.app)
