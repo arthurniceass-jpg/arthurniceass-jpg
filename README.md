@@ -7,8 +7,6 @@ Sou apaixonado por transformar ideias em produtos que funcionam de verdade. Cons
 
 ### 🛠️ No que estou trabalhando agora
 * **[Nutri Lab Brasil](https://nutrilab-seven.vercel.app):** e-commerce de suplementos com painel do dono (faturamento, lucro, estoque, pedidos, fornecedores e relatórios), catálogo com filtros e pagamento via Mercado Pago (Pix, cartão e boleto). *Next.js 15, TypeScript, Tailwind, Prisma e PostgreSQL.*
-* **SUPER · Doc Robô:** robô que lê e confere documentos de clientes e os envia para análise de crédito, reduzindo conferência manual.
-* **BarberPro:** SaaS multi-tenant de agendamento para barbearias.
 * **[Meu portfólio](https://portfolio-kappa-pink-pzhzl7pyjt.vercel.app):** site no estilo terminal, com objeto 3D feito à mão em Canvas, sem bibliotecas.
 
 ### 🚀 Minha Stack
